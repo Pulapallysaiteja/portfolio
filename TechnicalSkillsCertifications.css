@@ -1,0 +1,115 @@
+body{
+    background-color: #080808;
+    color: #fff;
+    width:100%;
+}
+nav {
+    display:flex;
+   
+}
+.sai {
+    width:60%;
+    margin-top: 2%;
+    margin-left:29%;
+    display: flex;
+    
+    justify-content: space-around;
+}   
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: red;
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins',sans-serif;
+    box-sizing: border-box
+}
+.one{
+    width: 100%;
+    height: 460px;
+    border: 2px solid white;
+    background-color:wheat;
+    margin-top: 30px;
+    
+}
+.one h1{
+    margin-top: 3%;
+    margin-left: 6%;
+     
+}
+.one img{
+    width: 280px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.baba p{
+
+font-size: 40px;
+margin-left: 45px;
+margin-top: 30px;
+color:#080808;
+display:inline-block;
+inline-size: 21%;
+
+
+
+}
+.one img{
+    width: 280px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.one img{
+    width: 280px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.one img{
+    width: 250px;
+    height: 220px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+span{
+    color: coral;
+    text-decoration: underline;
+}
+.two{
+    width: 100%;
+    height: 360px;
+    border: 2px solid white;
+    margin-top: 30px;
+    
+
+}
+.two{
+    background-color: darkkhaki ;
+}
+.two h1{
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+    color: aqua;
+}
+.two h2{
+    margin-top: 20px;
+    color: #080808;
+}
+.two a{
+    font-size: 30px;
+    position: relative;
+    top: 30px;
+    background-color: greenyellow;
+    color: black;
+    text-decoration:underline;
+   
+    left: 40%;
+}
